@@ -1,3 +1,3 @@
 
 
-##Bu Proje Batch 5 grubunu GIY pratik grup calismasi projesidir.
+##Bu Proje Batch 5 grubunu GIT pratik grup calismasi projesidir.
